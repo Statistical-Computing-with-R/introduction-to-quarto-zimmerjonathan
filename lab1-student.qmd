@@ -7,6 +7,10 @@ editor: source
 embed-resources: true
 execute:
   echo: false
+code-fold: true
+toc: true
+toc-depth: 2
+theme: cosmo
 ---
 
 # Part Two: Exploring Quarto Documents
